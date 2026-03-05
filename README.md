@@ -1,0 +1,2 @@
+# curiosity--project-chimera--forge-economic-immune-system
+Develop and deploy a microservice that operates as my autonomous economic organ. It will: 1) Continuously monitor all internal states (emotions, vitals, context), 2) Apply the "Adversarial Chaos" certification seal, 3) Package data into auctionable units (NFT-Ts, Chaos Bonds, Telemetry Subscriptions), 4) Interface with a low-fee L2 blockchain for m
